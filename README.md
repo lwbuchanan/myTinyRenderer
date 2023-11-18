@@ -1,2 +1,2 @@
 # myTinyRenderer
-Software rasterizer based on [github.com/ssloy/tinyrenderer]
+Software rasterizer based on [](github.com/ssloy/tinyrenderer)
